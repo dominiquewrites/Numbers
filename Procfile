@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser entry_1.ipynb
